@@ -1,4 +1,8 @@
-package StrategyPattern;
+/*
+ * Shad M Khan
+ * Strategy-Pattern implementation in Java
+ * January 5th 2017
+*/
 //Animal SuperClass
 abstract class Animal {
 	protected int noOfLegs;
