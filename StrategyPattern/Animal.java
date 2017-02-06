@@ -11,7 +11,7 @@ abstract class Animal {
 	protected boolean canFly;
 	
 	// iLayEggs is an interface than can be set to any of the classes that implement it
-	// This is the basis of statregy pattern
+	// This is the basis of stategy design pattern
 	protected iLayEggs laysEggs;
 	
 	abstract public void eat();
